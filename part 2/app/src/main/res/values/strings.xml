@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PhoneNumberSpinner</string>
+    <string name="show">show</string>
+    <string name="enter">Enter your phone email</string>
+    <string name="enter_phone">Enter phone number</string>
+    <string name="phonenumber_label">Phone Number:</string>
+    <string name="nothing_entered">Nothing entered.</string>
+    <string name="nothing_selected">"onNothingSelected: "</string>
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+</resources>

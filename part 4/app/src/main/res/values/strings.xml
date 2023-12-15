@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DateTimePicker</string>
+    <string name="time_button">Time</string>
+    <string name="date_button">Date</string>
+    <string name="choose_datetime">Choose the date and time:</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="date_picker">datePicker</string>
+    <string name="time_picker">timePicker</string>
+</resources>
